@@ -73,3 +73,9 @@ dmypy.json
 
 # Logs
 *.log
+
+# Plots
+plots/
+bloch_*
+*.png
+*.pdf
